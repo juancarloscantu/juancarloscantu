@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @juancarloscantu
-- 👀 I’m interested in game design and development, iOS development, and web development.
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning SwiftUI, and Unity.
 - 💞️ I’m looking to collaborate on learning game design.
 - 📫 How to reach me twitter: @jccantu1986
